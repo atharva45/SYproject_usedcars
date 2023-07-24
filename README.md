@@ -13,7 +13,11 @@ There are a total of 9 webpages. Each webpage of the website is responsive.
 •	 The buy page consists of all the cars that are on sale. If a car is clicked, then the specific page of that car is opened.
 
 •	The sell page is visible only to the users who have logged in. The car details like name, brand, year, fuel, transmission type, number of owners, kilometers driven, registration number, price, and image to upload are taken as input. All fields are required. The car name and brand are taken as input in a text box. Year and fuel have a dropdown menu. Transmission type and number of owners are taken as input as radio buttons. The number of kilometers driven is inputted by a slider. The registration number is taken as input in a text box. If the registration number matches with a car present in the database, then an alert is shown, and the form needs to be filled again. If the image uploaded is not in JPEG, JPG, or PNG format, then an alert is shown, and the form needs to be filled again.
+
 •	 The individual car display page consists of the webpage of each car linked with the backend. The car image and its details are shown. The location, phone number, and name of the owner are also shown. These details were taken when the user had signed up. So each car is linked with a user.
+
 •	The Contact Us webpage can be used to send any feedback to the company.
+
 •	The About Us webpage shows the information of the website.
+
 •	The logout page is used to log out a user from his/her session.
